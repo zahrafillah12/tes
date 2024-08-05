@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="XZUtahgGRerguVIc1Ioi">
+    <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-1" target="ESBSf-0UUExSi4Sxoqb1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-1" value="mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-2" target="ESBSf-0UUExSi4Sxoqb1-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-2" value="membuat telur&lt;div&gt;dadar&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-4" target="ESBSf-0UUExSi4Sxoqb1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-4" value="siapkan mangkok&lt;div&gt;sendok,bumbu yang diperlukan&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-6" target="ESBSf-0UUExSi4Sxoqb1-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-6" value="pecahkan telor kedalam mangkok" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-8" target="ESBSf-0UUExSi4Sxoqb1-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-8" value="masukkan bumbu secukup nya" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-10" target="ESBSf-0UUExSi4Sxoqb1-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-10" value="aduk sampai merata" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-12" target="ESBSf-0UUExSi4Sxoqb1-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-12" value="masukkan kedalam kompor dengan minyak yang sudah panas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-14" target="ESBSf-0UUExSi4Sxoqb1-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-14" value="goreng sampai kecoklat an" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-16" target="ESBSf-0UUExSi4Sxoqb1-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-16" value="angkat telur dan tunggu sampai minyak ditelur nya tidak ada" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ESBSf-0UUExSi4Sxoqb1-18" target="ESBSf-0UUExSi4Sxoqb1-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-18" value="siap di hidangkan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESBSf-0UUExSi4Sxoqb1-20" value="selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="870" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
